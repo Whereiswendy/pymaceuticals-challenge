@@ -1,0 +1,36 @@
+Capomulin IQR data:
+===========================================================================================
+The lower quartile (Q1 - 25th percentile) of final tumour volumes is: 32.37735684
+The upper quartile (Q3 - 75th percentile) of final tumour volumes is: 40.1592203
+The interquartile range (IQR) of final tumour volumes is: 7.781863460000004
+The median of final tumour volumes is: 38.1251644
+Values below 20.70456164999999 or above 44.05015203000001 could be outliers.
+Potential outliers: [47.68596303 46.53920617]
+===========================================================================================
+Ramicane IQR data:
+===========================================================================================
+The lower quartile (Q1 - 25th percentile) of final tumour volumes is: 31.56046955
+The upper quartile (Q3 - 75th percentile) of final tumour volumes is: 40.65900627
+The interquartile range (IQR) of final tumour volumes is: 9.098536719999998
+The median of final tumour volumes is: 36.56165229
+Values below 17.912664470000003 or above 45.20827463 could be outliers.
+Potential outliers: [45.22086888]
+===========================================================================================
+Infubinol IQR data:
+===========================================================================================
+The lower quartile (Q1 - 25th percentile) of final tumour volumes is: 54.04860769
+The upper quartile (Q3 - 75th percentile) of final tumour volumes is: 65.52574285
+The interquartile range (IQR) of final tumour volumes is: 11.477135160000003
+The median of final tumour volumes is: 60.16518046
+Values below 36.83290494999999 or above 71.26431043 could be outliers.
+Potential outliers: [72.2267309 36.3213458]
+===========================================================================================
+Ceftamin IQR data:
+===========================================================================================
+The lower quartile (Q1 - 25th percentile) of final tumour volumes is: 48.72207785
+The upper quartile (Q3 - 75th percentile) of final tumour volumes is: 64.29983003
+The interquartile range (IQR) of final tumour volumes is: 15.577752179999997
+The median of final tumour volumes is: 59.85195552
+Values below 25.355449580000002 or above 72.08870612 could be outliers.
+No potential outliers detected.
+===========================================================================================
